@@ -1,6 +1,6 @@
 const router = require('express').Router();
 const Chatkit = require('@pusher/chatkit-server');
-
+  
 const chatKitAdminUserId = "ADMIN_USER_ID";
 const chatKitInstanceLocator = "INSTANCE_LOCATOR";
 const chatKitApiKey = "API_KEY";
